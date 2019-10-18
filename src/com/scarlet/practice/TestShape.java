@@ -14,5 +14,7 @@ public class TestShape {
         System.out.println(Shape.getCount());
 
         System.out.println(r2.toString()); //git test
+
+        Shape re = new Rectangle(3, 5, "green");
     }
 }
