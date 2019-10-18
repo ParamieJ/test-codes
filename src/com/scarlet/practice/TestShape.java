@@ -13,6 +13,6 @@ public class TestShape {
         System.out.println(Rectangle.getrCount());
         System.out.println(Shape.getCount());
 
-        System.out.println(r2.toString());
+        System.out.println(r2.toString()); //git test
     }
 }
